@@ -2,7 +2,7 @@
 ## Fintune OpenAI GPT-2 using personchat database
 Pardis Shariffar 1677986
 
-## TO run this files
+## To run this files
 This project is using Python version 3.11.4 with PIP requirements as in "requirements.txt" file.
 
     Check current working directory command:
